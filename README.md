@@ -13,6 +13,6 @@ Estou estudando:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width='45px' /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width='45px' />
           
-Fora isso, também estudo outras coisinhas por hobby, como UX/UI, desenho e, recentemente, modelagem 3d 😊
+Fora isso, também estudo outras coisinhas por hobby, como UX/UI e desenho 😊
 
 Seja bem-vindo!
